@@ -1,0 +1,3 @@
+- Git ban đầu khá khó hiểu nhưng rất hữu ích.
+- Làm việc với branch giúp quản lý dự án rõ ràng hơn.
+- Giải quyết conflict là một kỹ năng quan trọng cần thực hành.
