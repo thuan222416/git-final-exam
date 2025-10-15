@@ -1,0 +1,23 @@
+## Giới thiệu cá nhân
+Xin chào, mình là Lê Bình Thuận.
+Hiện đang là sinh viên năm 4 ngành Công nghệ Thông tin..
+Mình rất đam mê lập trình và tìm hiểu các công nghệ mới.
+Mình mong muốn sau này có thể trở thành một Full-stack Developer.
+Rất vui được làm quen với mọi người!
+
+## Sở thích
+- Chơi game
+- Học tiếng Anh
+- Edit video
+
+## Kỹ năng
+- Lập trình Python, C++,...
+- Giao tiếp và làm việc nhóm
+- Lập trình Android
+
+## Kế hoạch học tập
+Trong 6 tháng tới, mình sẽ tập trung vào việc học sâu hơn về JavaScript và ReactJS.
+Mình sẽ dành 2 tiếng mỗi ngày để code các dự án cá nhân nhỏ.
+Mỗi tuần sẽ đọc ít nhất một bài blog kỹ thuật bằng tiếng Anh.
+Mục tiêu là hoàn thành một trang web portfolio hoàn chỉnh.
+Mình cũng sẽ tham gia các buổi workshop để mở rộng kiến thức và kết nối.
