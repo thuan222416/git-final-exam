@@ -1,0 +1,7 @@
+## Tính năng: Đăng nhập bằng Google
+
+- Người dùng có thể đăng nhập vào hệ thống mà không cần đăng ký.
+- Hệ thống sẽ tự động lấy thông tin tên và email từ tài khoản Google.
+- Giúp tăng tốc quá trình đăng nhập và cải thiện trải nghiệm người dùng.
+- Yêu cầu tích hợp Google OAuth 2.0 API.
+- Dự kiến hoàn thành trong 3 ngày.
