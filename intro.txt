@@ -1,5 +1,5 @@
 ## Giới thiệu cá nhân
-Xin chào, mình là Lê Bình Thuận.
+Hello, this is Le Binh Thuan.
 Hiện đang là sinh viên năm 4 ngành Công nghệ Thông tin..
 Mình rất đam mê lập trình và tìm hiểu các công nghệ mới.
 Mình mong muốn sau này có thể trở thành một Full-stack Developer.
