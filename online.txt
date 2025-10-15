@@ -1,0 +1,3 @@
+This file was created directly on GitHub.
+It helps to test the synchronization process.
+Git pull will bring this file to my local machine.
