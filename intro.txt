@@ -14,3 +14,10 @@ Rất vui được làm quen với mọi người!
 - Lập trình Python, C++,...
 - Giao tiếp và làm việc nhóm
 - Lập trình Android
+
+## Kế hoạch học tập
+Trong 6 tháng tới, mình sẽ tập trung vào việc học sâu hơn về JavaScript và ReactJS.
+Mình sẽ dành 2 tiếng mỗi ngày để code các dự án cá nhân nhỏ.
+Mỗi tuần sẽ đọc ít nhất một bài blog kỹ thuật bằng tiếng Anh.
+Mục tiêu là hoàn thành một trang web portfolio hoàn chỉnh.
+Mình cũng sẽ tham gia các buổi workshop để mở rộng kiến thức và kết nối.
