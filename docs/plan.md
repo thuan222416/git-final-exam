@@ -10,3 +10,8 @@
 - **Thứ 6:** Thực hành quy trình Pull Request trên GitHub.
 - **Thứ 7:** Làm một dự án nhỏ để tổng hợp kiến thức.
 - **Chủ nhật:** Ôn tập và chuẩn bị cho tuần học tiếp theo.
+
+## Ghi chú thêm
+- Cần xem lại video bài giảng về Git Rebase.
+- Tìm hiểu thêm về Git Hooks để tự động hóa một số việc.
+- Luyện tập trên LeetCode để cải thiện kỹ năng giải thuật.
